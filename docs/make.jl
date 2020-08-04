@@ -12,7 +12,13 @@ makedocs(;
         assets=String[],
     ),
     pages=[
-        "Home" => "index.md",
+        # "Home" => "index.md",
+        # "Welcome" => "01-welcome.md",
+        # "Numbers" => "02-numbers.md",
+        # "Intro to Julia" => "03-introduction-to-julia.jmd",
+        # "Root Finding Overview" => "10-root-finding-overview.md",
+        # "Root Finding Bisection" => "11-root-finding-bisection.md",
+        # "Root Finding Fixed points" => "12-root-finding-fixed-points.jmd"
     ],
 )
 
